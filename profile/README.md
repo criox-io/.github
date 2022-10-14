@@ -19,3 +19,6 @@ We are currently building several projects that showcases things we build for We
 ## 🫰 Follow our socials
 - [@CrioxIO Twitter](https://twitter.com/CrioxIO)
 - [@RatedAXG Twitter](https://twitter.com/RatedAXG)
+
+## Contact us
+-  email: mark@criox.io
